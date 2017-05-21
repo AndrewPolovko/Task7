@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Task7</string>
+    <string name="start_download">Start download</string>
+    <string name="file_downloading_title">Pigeons deliver your file, it may take a while…</string>
+    <string name="file_downloaded_title">Yippee! Your file is ready</string>
+    <string name="file_downloaded_description">Click on notification to view</string>
 </resources>
